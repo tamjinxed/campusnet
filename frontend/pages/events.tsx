@@ -1,4 +1,5 @@
 import Head from 'next/head';
+ zsadkj-codex/design-student-centric-web-application
 import Layout from '../components/Layout';
 import EventCard from '../components/EventCard';
 
@@ -20,5 +21,6 @@ export default function Events() {
         ))}
       </div>
     </Layout>
+ main
   );
 }

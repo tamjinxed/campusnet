@@ -1,5 +1,7 @@
 import Head from 'next/head';
+ zsadkj-codex/design-student-centric-web-application
 import Link from 'next/link';
+ main
 import Navbar from '../components/Navbar';
 
 export default function Home() {
@@ -9,6 +11,7 @@ export default function Home() {
         <title>CampusNet</title>
       </Head>
       <Navbar />
+ zsadkj-codex/design-student-centric-web-application
       <div className="hero bg-base-200 py-20">
         <div className="hero-content text-center">
           <div className="max-w-md">
@@ -18,6 +21,7 @@ export default function Home() {
           </div>
         </div>
       </div>
+ main
     </>
   );
 }

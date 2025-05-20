@@ -1,4 +1,5 @@
 import Link from 'next/link';
+ zsadkj-codex/design-student-centric-web-application
 import { useRouter } from 'next/router';
 
 export default function Navbar() {
@@ -23,6 +24,7 @@ export default function Navbar() {
           <li>
             <Link href="/groups" className={linkClass('/groups')}>Groups</Link>
           </li>
+ main
         </ul>
       </div>
     </div>
